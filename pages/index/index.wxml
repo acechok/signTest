@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- <button bindtap='getScancode' style="margin:15px">扫一扫</button> -->
+  <!-- <button bindtap='gotoPdf'>直接进入PDF页面</button> -->
+  <button bindtap='gotoPdf'>进入演示页面</button>
+</view>
